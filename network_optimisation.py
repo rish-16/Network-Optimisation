@@ -59,7 +59,7 @@ class Network():
         hyperparams = {
             'epochs': self._epochs,
             'units1': self._units1,
-            'act': self._act1,
+            'act1': self._act1,
             'units2': self._units2,
             'act2': self._act2,
             'act3': self._act3,
