@@ -90,7 +90,7 @@ def fitness(networks):
             print ('Accuracy: {}'.format(network._accuracy))
         except:
             network._accuracy = 0
-            print ('Failed build. Moving to next model.')
+            print ('Build failed.')
 
     return networks
 
