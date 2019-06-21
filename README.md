@@ -1,2 +1,2 @@
 # Network-Optimisation
-Network optimisation using genetic algorithms. 
+Neural Network architecture optimisation using genetic algorithms. 
